@@ -1,7 +1,7 @@
 ## Hi, i'm Jeonseol
 
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning python/php
+- 🔭 I’m currently working on Game Development
+- 🌱 I’m currently learning unity/c#
 - 📫 Contact: JeonseolDev@gmail.com
 
 <div align="center">
